@@ -8,5 +8,3 @@ const feed = () => {
     })
   );
 };
-import betterDate from "./betterDate.js";
-betterDate.testFunc();
