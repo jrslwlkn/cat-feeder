@@ -5,4 +5,4 @@ Powered with 5V USB split between the servo and ESP8266. The microcontroller sen
 Some big updates are planned.
 
 # Demo
-[![Demo Video](https://img.youtube.com/vi/vq4g5Casx2k/0.jpg)](https://www.youtube.com/watch?v=vq4g5Casx2k)
+[![Demo Video](https://img.youtube.com/vi/vq4g5Casx2k/0.jpg)](https://www.youtube.com/watch?v=vq4g5Casx2k){:target="_blank"}
